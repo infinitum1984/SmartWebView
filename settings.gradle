@@ -1,0 +1,3 @@
+include ':smartwb'
+include ':app'
+rootProject.name = "SmartWebView"
