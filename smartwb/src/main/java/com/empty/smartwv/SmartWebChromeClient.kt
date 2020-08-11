@@ -1,4 +1,7 @@
 package com.empty.smartwv
 
-class SmartWebChromeClient {
+import android.webkit.WebChromeClient
+
+class SmartWebChromeClient:WebChromeClient() {
+
 }
